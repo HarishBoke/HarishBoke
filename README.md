@@ -10,5 +10,5 @@
 
 - 🤔 I’m looking for help in pair programming with someone similar interest and ready to wave  along fullstack boat.
 
-- 📫 How to reach me: You can reach me easily through <a href="https://harish.website">my website</a>
+- 📫 How to reach me: You can reach me easily through <a href="https://harish.website" target="_blank">my website</a>
 
