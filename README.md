@@ -10,5 +10,5 @@
 
 - 🤔 Are you having similar interests ? I’m looking for help in pair programming who is ready to wave along in fullstack boat.
 
-- 📫 You can reach me easily through <a href="https://harish.website" target="_blank">https://harish.website</a>
+- 📫 Feel free to say Hi! <a href="https://harish.website" target="_blank">https://harish.website</a>
 
