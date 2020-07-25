@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 ## Frontend enthusiastic
 
-![Site preview](/content/harish.website.png)
+![Site preview](https://raw.githubusercontent.com/HarishBoke/HarishBoke/master/content/harish.website.png)
