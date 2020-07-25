@@ -12,5 +12,5 @@
 
 - 📫 How to reach me: You can reach me easily through <a href="https://harish.website">my website</a>
 
-- ⚡ Fun fact: Once i climbed tree and sat there for entire afternoon
+<!- ⚡ Fun fact: Once i climbed tree and sat there for entire afternoon ->
 
